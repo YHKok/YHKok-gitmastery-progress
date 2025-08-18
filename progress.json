@@ -1,14 +1,5 @@
 [
   {
-    "exercise_name": "link-me",
-    "started_at": 1755507578.961501,
-    "completed_at": 1755507579.348817,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
-  },
-  {
     "exercise_name": "remote-control",
     "started_at": 1755507038.14999,
     "completed_at": 1755507092.554435,
@@ -16,14 +7,5 @@
       "Great work setting up a public remote repository!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "link-me",
-    "started_at": 1755518557.041132,
-    "completed_at": 1755518557.085999,
-    "comments": [
-      "too many values to unpack (expected 2)"
-    ],
-    "status": "Error"
   }
 ]
